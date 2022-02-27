@@ -1,0 +1,16 @@
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\bin\Debug\net5.0\25.02.2022 lab task.exe
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\bin\Debug\net5.0\25.02.2022 lab task.deps.json
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\bin\Debug\net5.0\25.02.2022 lab task.runtimeconfig.json
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\bin\Debug\net5.0\25.02.2022 lab task.runtimeconfig.dev.json
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\bin\Debug\net5.0\25.02.2022 lab task.dll
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\bin\Debug\net5.0\ref\25.02.2022 lab task.dll
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\bin\Debug\net5.0\25.02.2022 lab task.pdb
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\obj\Debug\net5.0\25.02.2022 lab task.csproj.AssemblyReference.cache
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\obj\Debug\net5.0\25.02.2022 lab task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\obj\Debug\net5.0\25.02.2022 lab task.AssemblyInfoInputs.cache
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\obj\Debug\net5.0\25.02.2022 lab task.AssemblyInfo.cs
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\obj\Debug\net5.0\25.02.2022 lab task.csproj.CoreCompileInputs.cache
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\obj\Debug\net5.0\25.02.2022 lab task.dll
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\obj\Debug\net5.0\ref\25.02.2022 lab task.dll
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\obj\Debug\net5.0\25.02.2022 lab task.pdb
+C:\Users\Rail\source\repos\25.02.2022 lab task\25.02.2022 lab task\obj\Debug\net5.0\25.02.2022 lab task.genruntimeconfig.cache
